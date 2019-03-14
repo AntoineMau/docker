@@ -1,0 +1,1 @@
+docker-machin ssh Char "docker logs -f engineering-bay"
